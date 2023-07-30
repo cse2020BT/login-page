@@ -1,0 +1,29 @@
+.login_page{
+    width: 40%;
+    border: 5px solid black;
+    margin:5% 30%;
+    text-align: center;
+}
+.container{
+    margin: 40px;
+}
+.username{
+    padding:3%;
+    text-align: left;
+}
+.password{
+    padding: 3%;
+    text-align: left;
+}
+.login{
+    text-align: left;
+}
+.checkbox{
+
+}
+.password{
+
+}
+.canclebtn{
+
+}
